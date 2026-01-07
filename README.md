@@ -4,6 +4,7 @@ This repository contains my solutions to various problems on LeetCode. The goal 
 The problems in this repository are categorized as follows:
 
 - **Arrays**
+- **Binary Search**
 - **Strings**
 - **Linked Lists**
 - **Hash Tables**
