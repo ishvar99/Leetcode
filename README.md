@@ -6,6 +6,7 @@ The problems in this repository are categorized as follows:
 - **Arrays**
 - **Strings**
 - **Linked Lists**
+- **Hash Tables**
 - **Trees**
 - **Dynamic Programming**
 - **Greedy Algorithms**
